@@ -8,11 +8,11 @@ Während der Blocktage betreiben die Lernenden in Kleingruppen ein eigenes klein
 
 ## Termine
 
-### Benchmark I | Themenwahl
+### Benchmark I: Themenwahl
 
-### Benchmark II | Fragestellung & Hypothesen
+### Benchmark II: Fragestellung & Hypothesen
 
-### Benchmark III | Methoden & Material
+### Benchmark III: Methoden & Material
 
 ### Blocktage: 1. - 4. April
 
