@@ -8,12 +8,16 @@ Während der Blocktage betreiben die Lernenden in Kleingruppen ein eigenes klein
 
 ## Termine
 
-### Benchmark I: Themenwahl
+### Fr., 13. März, 17h: Benchmark I Themenwahl
 
-### Benchmark II: Fragestellung & Hypothesen
+### Fr., 20. März, 17h: Benchmark II Fragestellung & Hypothesen
 
-### Benchmark III: Methoden & Material
+### Fr., 27. März, 17h: Benchmark III Methoden & Material
 
-### Blocktage: 1. - 4. April
+### Mi., 1. April, 8h: Blocktag I
+
+### Do., 2. April, 8h: Blocktag II
+
+### Fr., 3. April, 8h: Blocktag III
 
 ## Teams
