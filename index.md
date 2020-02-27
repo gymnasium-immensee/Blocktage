@@ -1,6 +1,6 @@
 ## 🔭 Research Paper
 
-<img src="18424.jpg" alt="🔬" width="100%">
+<img src="img/18424.jpg" alt="🔬" width="100%">
 <a href="https://de.freepik.com/fotos-vektoren-kostenlos/frau">Foto erstellt von pressfoto - de.freepik.com</a>
 
 > «Führen bestimmte Bewegungen häufiger zu Muskelkater, als andere?» «Sind Kinofilme besser, je grösser ihr Budget ist?» «Weisen die Toiletten von Männern mehr Keime auf, als jene von Frauen?» «Hat die Anzahl Stunden, in denen Schüler_innen in der Freizeit Sport betreiben einen Einfluss auf deren Sportnote?» «Weisen Bio-Früchte einen höheren Zuckeranteil auf als herkömmliche Früchte?» «Beeinflusst die politische Einstellung der Eltern die ihrer Kinder?» «Welche Faktoren bestimmen stärker, wie weit eine Rakete ins All befördert werden kann: das Gewicht oder die Treibstoffmenge /-zusammensetzung?» «Hat die Qualität der Kleidung in meinem Schrank einen Zusammenhang mit ihrer Marke?» «Haben Raucher den höheren Ruhepuls als Nichtraucher?» «Halten sich Knaben mehr Zeit am Smartphone auf als Mädchen?»
