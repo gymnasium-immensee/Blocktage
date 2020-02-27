@@ -7,3 +7,8 @@
 
 Während der Blocktage betreiben die Lernenden in Kleingruppen ein eigenes kleines Forschungsprojekt, im Rahmen dessen sie eine alltagsnahe Kausalhypothese mithilfe wissenschaftlich-statistischer Verfahren zu beantworten versuchen. Gemeinsam mit einem Coach konzipieren die Lernenden eine Forschungsmethode, sammeln Daten, werten diese in einem Research Paper statistisch aus und präsentieren die Ergebnisse schliesslich einem Publikum. Die resultierenden Papers werden zum *GymiJournal* zusammengefasst und die besten Arbeiten prämiert.
 
+### [🗓 Termine & Abgabe](termine.md)
+
+### [💡 Tipps & Tricks](tipps.md)
+
+### [📜 Wichtige Dokumente](dokumente.md)

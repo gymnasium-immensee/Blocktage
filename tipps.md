@@ -1,4 +1,4 @@
-## 🔭 Tipps & Tricks
+## 💡 Tipps & Tricks
 
 ### Themenwahl
 
